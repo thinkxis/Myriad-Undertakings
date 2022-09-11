@@ -8,20 +8,28 @@ The Myriad Undertakings by the guild is a expanding mecca for free digital asset
 
 # Public List
 The icons Undertaking is part of the Myriad Undertakings. We are building a gargantuan library of compatible icons. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/icons
 
 The maps Undertaking is part of the Myriad Undertakings. We are building a diverse library of interactive maps. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/maps
 
 The fonts Undertaking is part of the Myriad Undertakings. We are building an extensive library of writing systems. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/fonts
 
 The datasets Undertaking is part of the Myriad Undertakings. We are building a massive library of formatted datasets. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/datasets
 
 The palettes Undertaking is part of the Myriad Undertakings. We are building an extraordinary library of unique palettes. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/palettes
 
 The gradients Undertaking is part of the Myriad Undertakings. We are building an extraordinary library of unique gradients. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/gradients
 
 The patterns Undertaking is part of the Myriad Undertakings. We are building an extraordinary library of unique patterns. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/patterns
 
 The colors Undertaking is part of the Myriad Undertakings. We are building a researched library of stable colors. Below is documuntation to design requirements before submition.
+https://github.com/dipesious/Myriad-Undertakings/colors
 
 # Icons Undertaking
 Icons Undertaking is an ever improving library of opensource icons and APIs for convenient use via HTML-CSS in svg, png & webp format. The library has delightful and beautifully crafted icons in 24:24 viewbox for common actions. Download them for use in your digital products for Android, iOS, and web or your own creative projects.
