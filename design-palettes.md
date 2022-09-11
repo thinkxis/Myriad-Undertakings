@@ -1,5 +1,5 @@
-# xxx Undertaking
-xxx
+# palettes Undertaking
+about...
 
 # Design
 learn here
