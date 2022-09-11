@@ -1,4 +1,4 @@
-# palettes Undertaking
+# Palettes Undertaking
 about...
 
 # Design
