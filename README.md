@@ -8,6 +8,7 @@ The Myriad Undertakings by the guild is a expanding mecca for free digital asset
 
 # Design Guidelines
 The icons Undertaking is part of the Myriad Undertakings. We are building a gargantuan library of compatible icons. Below is documuntation to design requirements before submition.
+/n
 https://github.com/dipesious/Myriad-Undertakings/blob/main/design-icons.md
 
 The maps Undertaking is part of the Myriad Undertakings. We are building a diverse library of interactive maps. Below is documuntation to design requirements before submition.
