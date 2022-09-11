@@ -6,7 +6,7 @@ Islesys is a major initiative by Dipesh Bhoir (a leading South Asian programmer)
 # Myriad Undertakings
 The Myriad Undertakings by the guild is a expanding mecca for free digital assets. 
 
-# Public List
+# Design Guidelines
 The icons Undertaking is part of the Myriad Undertakings. We are building a gargantuan library of compatible icons. Below is documuntation to design requirements before submition.
 https://github.com/dipesious/Myriad-Undertakings/icons
 
