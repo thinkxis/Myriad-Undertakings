@@ -31,11 +31,8 @@ https://github.com/dipesious/Myriad-Undertakings/patterns
 The colors Undertaking is part of the Myriad Undertakings. We are building a researched library of stable colors. Below is documuntation to design requirements before submition.
 https://github.com/dipesious/Myriad-Undertakings/colors
 
-# Icons Undertaking
-Icons Undertaking is an ever improving library of opensource icons and APIs for convenient use via HTML-CSS in svg, png & webp format. The library has delightful and beautifully crafted icons in 24:24 viewbox for common actions. Download them for use in your digital products for Android, iOS, and web or your own creative projects.
-
-
-Contact Islesys: ask@islesys.com
-Contact Dipesh Bhoir: ask@DipeshBhoir.com
+# Contact
+Islesys: ask@islesys.com
+Dipesh Bhoir: ask@DipeshBhoir.com
 
 Thanks for being part of something great.
