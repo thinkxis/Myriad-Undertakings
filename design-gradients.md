@@ -1,5 +1,5 @@
-# xxx Undertaking
-xxx
+# Gradients Undertaking
+about...
 
 # Design
 learn here
