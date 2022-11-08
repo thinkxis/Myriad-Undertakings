@@ -28,8 +28,8 @@ https://github.com/dipesious/Myriad-Undertakings/blob/main/design-gradients.md
 The patterns Undertaking is part of the Myriad Undertakings. We are building an extraordinary library of unique patterns. Below is documuntation to design requirements before submition.<br />
 https://github.com/dipesious/Myriad-Undertakings/blob/main/design-patterns.md
 
-The colors Undertaking is part of the Myriad Undertakings. We are building a researched library of stable colors. Below is documuntation to design requirements before submition.<br />
-https://github.com/dipesious/Myriad-Undertakings/blob/main/design-colors.md
+The shades Undertaking is part of the Myriad Undertakings. We are building a researched library of stable shades. Below is documuntation to design requirements before submition.<br />
+https://github.com/dipesious/Myriad-Undertakings/blob/main/design-shades.md
 
 # Contact
 Islesys: ask@islesys.com
