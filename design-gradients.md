@@ -1,4 +1,4 @@
-# Officialy largest public Gradient collection
+# Officialy largest Gradient collection
 A handpicked collection of beautiful color gradients for designers and developers.
 Official Website: https://koirang.com
 
