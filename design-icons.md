@@ -1,4 +1,4 @@
-# Officialy largest Icon collection on the Asia
+# Officialy largest icon collection on the Asia
 A handpicked collection of icons for convenient use via HTML-CSS in svg, png & webp format for designers and developers.
 Official Website: https://iconwho.com
 
